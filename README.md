@@ -1,6 +1,5 @@
 # MicroCMS
-MVC, Silex, Twig, Bootstrap, Back-office
-<<<<<<< HEAD
+MVC, Silex, Twig, Bootstrap, Back-office   
 
 
 Cours "Évoluez vers une architecture PHP professionnelle" de OpenClassrooms
@@ -23,5 +22,5 @@ Définition d'un hôte virtuel.
 
 
 ### Itération 4 : modélisation objet de l'accès aux données #
-=======
->>>>>>> a923ae91956b26b55f811ad155955031191d1b29
+
+Création de la classe Article, remplacement de PDO par Doctrine DBAL.   
