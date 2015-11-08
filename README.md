@@ -17,4 +17,8 @@ Définition d'un hôte virtuel.
 ### Itération 4 : modélisation objet de l'accès aux données #
 Création de la classe Article, remplacement de PDO par Doctrine DBAL.   
 
-### Itération 5 : intégration du moteur de templates twig #
+### Itération 5 : intégration du moteur de templates twig #   
+Installation de Twig avec composer
+
+### Itération 6 : intégration du framework web Bootstrap #   
+Installation de bootstrap et de jQuery
