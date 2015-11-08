@@ -1,6 +1,7 @@
 # MicroCMS
-MVC, Silex, Twig, Bootstrap, Back-office   
+---
 
+MVC, Silex, Twig, Bootstrap, Back-office   
 
 Cours "Évoluez vers une architecture PHP professionnelle" de OpenClassrooms
 
@@ -22,3 +23,8 @@ Installation de Twig avec composer
 
 ### Itération 6 : intégration du framework web Bootstrap #   
 Installation de bootstrap et de jQuery
+
+### Itération 7 : affichage des détails sur un article #   
+Mise à jour de la bdd   
+Création de la classe Comment   
+Ajout d'un layout général pour les views
