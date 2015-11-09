@@ -18,7 +18,7 @@ class Comment
 
     /**
      * Comment author.
-     * @var string
+     * @var \MicroCMS\Domain\User
      */
     private $author;
 
@@ -35,11 +35,12 @@ class Comment
     private $article;
 
     // GETTERS & SETTERS //
+
     public function getId() { return $this->id; }
     public function setId($id) { $this->id = $id; }
 
     public function getAuthor() { return $this->author; }
-    public function setAuthor($author) { $this->author = $author; }
+    public function setAuthor(User $author) { $this->author = $author; }
 
     public function getContent() { return $this->content; }
     public function setContent($content) { $this->content = $content; }

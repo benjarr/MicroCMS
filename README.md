@@ -27,4 +27,8 @@ Installation de bootstrap et de jQuery
 ### Itération 7 : affichage des détails sur un article #   
 Mise à jour de la bdd   
 Création de la classe Comment   
-Ajout d'un layout général pour les views
+Ajout d'un layout général pour les views   
+
+### Itération 8 : gestion de la sécurité #   
+
+Offrir aux visiteurs la possibilité de s'identifier   
