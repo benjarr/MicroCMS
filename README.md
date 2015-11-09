@@ -32,3 +32,7 @@ Ajout d'un layout général pour les views
 ### Itération 8 : gestion de la sécurité #   
 
 Offrir aux visiteurs la possibilité de s'identifier   
+
+### Itération 9 : ajout de commentaires à un article #   
+
+Permettre aux utilisateurs authentifiés d'ajouter des commentaires à un article.   
